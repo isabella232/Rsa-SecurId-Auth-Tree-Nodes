@@ -15,8 +15,7 @@
 -->
 # RSA SecurID Authentication Nodes
 
-The **RSA SecurID** authentication nodes lets administrators integrate RSA SecurID Access Management MFA into 
-an ForgeRock AM authentication trees.
+The **RSA SecurID** authentication nodes lets administrators integrate RSA SecurID Access Management MFA into a ForgeRock Intelligent Access Journey.
 
 ## Usage
 
